@@ -75,7 +75,7 @@ const obj3 = Object.assign({},obj1, obj2)
 console.log(obj3);
 
 const course = {
-    courseName: "js in hindi",
+    courseName: "js",
     price: 0,
     courseInstructor: "hitesh"
 }
